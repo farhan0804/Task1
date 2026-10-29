@@ -1,2 +1,4 @@
+Requirements:
 
-# No external dependencies required.
+Python 3
+A code editor such as Visual Studio Code or IDLE
